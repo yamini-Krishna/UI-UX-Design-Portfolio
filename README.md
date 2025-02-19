@@ -9,3 +9,8 @@ Designed an interactive 3D carousel for a coffee shop theme in Figma! ✨ This p
 👆 Tap on the coffee to explore! Watch the carousel smoothly transition between different coffee blends, special offers, and cozy vibes.
 
 🔗 Check it out here: https://www.figma.com/proto/fWuvyeFf5t1P05a3m5gnk1/Project-Y?node-id=0-1&t=7jKyJluvSVhfLPaW-1
+
+My other works:
+https://www.figma.com/design/d0YWZt3ccinfyzTCnH3C06/YK?node-id=0-1&t=iNFF5hK8kIeSgaPh-1
+
+
