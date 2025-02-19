@@ -4,9 +4,13 @@
 This UI was designed following human-centered design principles, inspired by my learning from the Google UX Design Professional Certificate and my To-Let Globe internship:
 
 1️⃣ Empathize – Understanding user needs for an intuitive property search experience
+
 2️⃣ Define – Identifying key pain points in property browsing and selection
+
 3️⃣ Ideate – Brainstorming creative UI solutions for seamless navigation
+
 4️⃣ Prototype – Designing interactive wireframes and high-fidelity UIs in Figma
+
 5️⃣ Test – Refining based on usability feedback for better user engagement
 
 ## Figma Animation Carousel
